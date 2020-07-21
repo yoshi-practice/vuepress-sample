@@ -1,0 +1,15 @@
+{
+  "name": "vuepress-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yoshihisa Kaino <yoppy1125yoppy@gmail.com> (https://github.com/yoshi1125hisa)",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.5.2"
+  }
+}
